@@ -1,4 +1,4 @@
-Sanskrit App
+JasCaafe App
 ===================================
 
 A Coffee ordering Android application in which Email is send to respective company to order a coffee. 
