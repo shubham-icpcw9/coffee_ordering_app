@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JasCaafe</string>
+    <string name="genre">c-GENRE</string>
+    <string name="call">Contact Us</string>
+    <string name="g1">Hot Coffee</string>
+    <string name="g2">Expresso</string>
+    <string name="dname">Deliever to</string>
+    <string name="g3">Cappuccino</string>
+    <string name="g4">Frappuccino</string>
+    <string name="tm">Triple Mocha</string>
+    <string name="s__" translatable="false">+</string>
+    <string name="topping">TOPPING</string>
+    <string name="map">Locate me</string>
+    <string name="name">NAME</string>
+    <string name="thanku">THANK YOU!</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="num_2">2</string>
+    <string name="s_" translatable="false">-</string>
+    <string name="ORDER">ORDER</string>
+    <string name="is_whipped">Is Whipped cream added?</string>
+    <string name="choco">Is Chocolate added?</string>
+    <string name="tms">Is Triple Mocha added?</string>
+    <string name="coffee">Coffee Order</string>
+    <string name="tot" translatable="false">\nTotal: $</string>
+    <string name="addName">Delivery Address :</string>
+    <string name="ordersumName">Name: <xliff:g example="Shubham" id="xyz">%s</xliff:g></string>
+</resources>

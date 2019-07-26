@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JasCaafe</string>
+    <string name="name">NOMBRE</string>
+    <string name="topping">Cubierta</string>
+    <string name="Whipped_Cream">Crema batida</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Cantidad</string>
+    <string name="ORDER">ORDEN</string>
+    <string name="thanku">GRACIAS!</string>
+    <string name="num_2">2</string>
+    <string name="choco">Agregue el chocolate?</string>
+    <string name="is_whipped">Agregue el crema batida?</string>
+    <string name="coffee">Café Ordenar</string>
+    <string name="ordersumName">Nombre: <xliff:g example="shubham" id="xyz">%s</xliff:g></string>
+    <string name="call">Contáctenos</string>
+    <string name="dname">" Entregar a"</string>
+    <string name="g1">Café Caliente</string>
+    <string name="g2">Expresso</string>
+    <string name="g3">Capuchino</string>
+    <string name="g4">Frappuccino</string>
+    <string name="genre">c-género</string>
+    <string name="map">Localizame</string>
+    <string name="tm">Triple Mocha</string>
+    <string name="tms">Agregue el Triple Mocha?</string>
+    <string name="addName">Dirección de Delievery :</string>
+
+</resources>
