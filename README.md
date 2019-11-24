@@ -1,8 +1,13 @@
 JasCaafe App
 ===================================
+1. Built coffee ordering android application in which an order-placing Email is sent to the respective
+outlet serving through the App.
 
-A Coffee ordering Android application in which Email is send to respective company to order a coffee. 
-It also supports Spanish in addition to English.
+2. Implemented Spanish language in addition to English.
+
+3. Implemented implicit Intents for opening Gmail, Google Maps.
+
+4. Designed high-quality Layout using material design system.
 
 Pre-requisites
 --------------
