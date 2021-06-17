@@ -1,13 +1,13 @@
 JasCaafe App
 ===================================
-1. Built coffee ordering android application in which an order-placing Email is sent to the respective
-outlet serving through the App.
+• Built coffee ordering Android application in which an order-placing Email is
+  sent to the respective outlet serving through the app.
+  
+• Localized my app by implementing the Spanish in addition to English.
 
-2. Implemented Spanish language in addition to English.
+• Implemented implicit Intents for opening Gmail, Google Maps.
 
-3. Implemented implicit Intents for opening Gmail, Google Maps.
-
-4. Designed high-quality Layout using material design system.
+• Designed high-quality UI using a material design system.
 
 Pre-requisites
 --------------
