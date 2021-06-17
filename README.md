@@ -1,7 +1,6 @@
 JasCaafe App
 ===================================
-• Built coffee ordering Android application in which an order-placing Email is
-  sent to the respective outlet serving through the app.
+• Built coffee ordering Android application in which an order-placing Email is sent to the respective outlet serving through the app.
   
 • Localized my app by implementing the Spanish in addition to English.
 
