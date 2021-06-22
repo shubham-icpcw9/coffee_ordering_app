@@ -1,4 +1,4 @@
-JasCaafe App
+JasCaafeApp
 ===================================
 • Built coffee ordering Android application in which an order-placing Email is sent to the respective outlet serving through the app.
   
